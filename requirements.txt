@@ -4,3 +4,9 @@ socks
 cfscrape
 icmplib
 scapy
+json
+urllib3
+random
+string
+time
+discum
